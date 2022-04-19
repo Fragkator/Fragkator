@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fragkator
+- 👋 Hi, I’m Nikolaos Fragkos
 - 👀 I have some knowlegde of cpp and matlab
 - 🍋 I am a surveying engineer in NTUA, I specialize in remote sensing and photogrammetry 
 - 🌱 I’m currently learning python
